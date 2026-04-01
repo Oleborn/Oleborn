@@ -1,16 +1,63 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F799F-4093E4&height=130&section=header&text=Java Code Here...&fontSize=30&fontAlignY=30&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
-<!--
-**Oleborn/Oleborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4093E4&center=true&vCenter=true&width=800&
+lines=П+р+и+в+е+т+!;
+Рад+видеть+на+моей+странице;
++Я Java+Backend+Developer"/>
+</p>
+<div align="center">
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffe599&center=true&vCenter=true&width=800&
+lines=Стек+используемых+мной+технологий:;
++%7C+Spring Boot+%7C+Spring Web+%7C+Spring Security+%7C;
++%7C+Hibernate ORM+%7C+JOOQ+%7C+;+%7C+SQL+%7C+PostgreSQL+%7C+H2+%7C+;+%7C+Redis+%7C+Caffeine+%7C+Liquibase+%7C+Flyway+%7C+;
+Apache+Kafka;
+%7C+Docker+%7C+Jenkins+%7C+Apache+Maven+%7C;
++%7C+Prometheus+%7C+Elasticsearch+%7C+Logstash+%7C+Kibana+%7C+;"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://komarev.com/ghpvc/?username=oleborn&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/oleborn?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
+</div>
+
+## Связь со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/oleborn) 
+[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:oleborn@mail.ru)
+
+---
+
+
+## Cтек немного подробнее:
+
+| Категория | Технологии |
+| :--- | :--- |
+| **Языки программирования** | **Java** |
+| **Фреймворки и библиотеки** | **Spring Boot**: Быстрая разработка микросервисов, конфигурирование, управление зависимостями. <br> **Spring Web/WebFlux**: Создание реактивных и неблокирующих веб-приложений, RESTful API. <br> **Hibernate ORM**: Эффективное взаимодействие с реляционными базами данных, управление транзакциями. <br> **JOOQ**: Управляемое взаимодействие с реляционными бд. <br> **Camunda 7**: Проектирование, моделирование и оркестрация сложных бизнес-процессов с использованием BPMN. |
+| **Базы данных и кэширование** | **PostgreSQL**, **H2**: Проектирование схем баз данных, оптимизация сложных запросов, индексирование, работа с большими объемами данных. <br> **Redis**: Внедрение распределенного кэширования, использование для сессий, Pub/Sub, rate limiting. <br> **Caffeine**: Высокопроизводительное локальное кэширование для ускорения доступа к данным. <br> **Liquibase**, **Flyway**: Автоматизация миграций схем баз данных, обеспечение консистентности. |
+| **Брокеры сообщений** |**Apache Kafka**: Построение высокопроизводительных, отказоустойчивых и масштабируемых систем обмена сообщениями. Опыт работы с Kafka Streams, Consumer Groups, Producers и Consumers для обработки событий в реальном времени. <br> **RabbitMQ**: В процессе знакомства.|
+| **Архитектура и интеграция** |**Microservices**: Разработка и декомпозиция монолитных приложений на микросервисы, управление межсервисным взаимодействием. <br>**REST API**: Проектирование и реализация стандартизированных API для взаимодействия сервисов. <br>**API Gateway**: Использование для маршрутизации, аутентификации, авторизации и балансировки нагрузки. <br>**gRPC**: Разработка высокопроизводительных RPC-сервисов с использованием Protocol Buffers для эффективной передачи данных. <br>**FeignClient**: Декларативный HTTP-клиент для упрощения вызовов RESTful сервисов. |
+| **Тестирование** |**JUnit, Mockito**: Модульное тестирование, имитация зависимостей. <br>**WireMock**: Имитация внешних HTTP-сервисов для интеграционного тестирования. <br>**Testcontainers**: Использование контейнеров Docker для интеграционного тестирования баз данных, брокеров сообщений и других зависимомостей. |
+| **AI/ML** |**Spring AI**: Разработка взаимодействия с внешними и локальными LLM, настройка RAG и взаимодейсвия с токенизированными базами данных.|
+| **DevOps и инструменты** |**Docker**: Контейнеризация приложений, создание Dockerfile, управление образами и контейнерами. <br>**Jenkins**: Настройка и автоматизация CI/CD пайплайнов для непрерывной интеграции, сборки, тестирования и деплоя. <br>**CI/CD**: Понимание и применение принципов непрерывной интеграции и доставки. <br>**Prometheus**: Мониторинг метрик приложений и инфраструктуры. <br>**ELK Stack (Elasticsearch, Logstash, Kibana)**: Централизованное агрегирование, анализ и визуализация логов для оперативного поиска проблем. <br>**Swagger/OpenAPI**: Документирование и тестирование API. <br>**Apache Maven**: Управление проектами, сборка, управление зависимостями. |
+
+<p align="center">
+  <b>Список постоянно пополняется! Следите за проектами</b>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <i>Спасибо, что заглянули в мой профиль! <br>Я всегда открыт для новых возможностей, сотрудничества и обмена опытом.<br>Не стесняйтесь писать!</i>
+</p>
+
+---
