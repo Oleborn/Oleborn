@@ -1,30 +1,19 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F799F-4093E4&height=130&section=header&text=Java Code Here...&fontSize=30&fontAlignY=30&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F799F-4093E4&height=130&section=header&text=Java%20Code%20Here...&fontSize=30&fontAlignY=30&animation=fadeIn&fontColor=ffffff" alt="Header" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4093E4&center=true&vCenter=true&width=800&
-lines=П+р+и+в+е+т+!;
-Рад+видеть+на+моей+странице;
-+Я Java+Backend+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4093E4&center=true&vCenter=true&width=800&lines=Привет!;Рад+видеть+на+моей+странице;Я+Java+Backend+Developer" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFE599&center=true&vCenter=true&width=900&lines=Стек+используемых+мной+технологий:;Spring+Boot+|+Spring+Security+|+Hibernate;PostgreSQL+|+Redis+|+Kafka;Docker+|+Jenkins+|+Prometheus;Microservices+|+gRPC+|+Camunda" alt="Tech Stack" />
+</p>
+
 <div align="center">
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffe599&center=true&vCenter=true&width=800&
-lines=Стек+используемых+мной+технологий:;
-+%7C+Spring Boot+%7C+Spring Web+%7C+Spring Security+%7C;
-+%7C+Hibernate ORM+%7C+JOOQ+%7C+;+%7C+SQL+%7C+PostgreSQL+%7C+H2+%7C+;+%7C+Redis+%7C+Caffeine+%7C+Liquibase+%7C+Flyway+%7C+;
-Apache+Kafka;
-%7C+Docker+%7C+Jenkins+%7C+Apache+Maven+%7C;
-+%7C+Prometheus+%7C+Elasticsearch+%7C+Logstash+%7C+Kibana+%7C+;"/>
-</p>
-
-
-
-<img src="https://komarev.com/ghpvc/?username=oleborn&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/oleborn?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=oleborn&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/oleborn?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
 </div>
 
 ## Связь со мной
