@@ -18,8 +18,10 @@
 
 ## Связь со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/oleborn) 
-[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:oleborn@mail.ru)
+<p align="left">
+  <a href="https://t.me/oleborn"><img src="https://img.shields.io/badge/@oleborn-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:oleborn@mail.ru"><img src="https://img.shields.io/badge/oleborn@mail.ru-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
